@@ -1,5 +1,4 @@
 ### Hello Everyone!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">
-___________________________________________________________________________________________________________________________________
 This is **Vedant Shrivastava**. I am currently pursuing B.Tech at School of Computer Engineering, KIIT(Deemed to be University). I am looking to pursue a challenging career and be part of a progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organisation. 
 _________________________________________________________________________
 I am an IT Intern at Deloitte, DevOps Intern at LinuxWorld Informatics, Scholarship receiver of Nutanix Hybrid Cloud Scholarship Program, Docker Expert at IIEC, Rust Lang Developer at Mozilla Club Bbsr, Member at Clymbe, Data Science Trainee at WorldQuant University and a Writer at Nerd For Tech.
@@ -7,7 +6,7 @@ ________________________________________________________________________________
  I code for `Fun` in any language including:  
 | Python | C/C++/C# | Shell | Java | Kotlin | Groovy | Dockerfile | HCL | CSS | Rust | R |HTML
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-
+___________________________________________________________________________________________________________________________________
 ### Technologies & Frameworks I have worked with :
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
