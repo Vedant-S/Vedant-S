@@ -51,9 +51,6 @@ ________________________________________________________________________________
 ![Vedant Shrivastava's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vedant-S&show_icons=true&hide=["issues"]&theme=radical)
 
 [![HitCount](http://hits.dwyl.com/Vedant-S/Vedant-S.svg)](http://hits.dwyl.com/Vedant-S/Vedant-S)
-
-<a href="https://github.com/Vedant-S">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-S&hide=html&hide=jupyter%20notebook&show_icons=true&theme=radical" alt="Vedant's GitHub Stats"/></a>
 ___________________________________________________________________________________________________________________________________
 - 💬 Ask me about anything, I am happy to help anytime!
 - Active participant in Hackathons & CTFs
