@@ -18,7 +18,6 @@ ________________________________________________________________________________
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://www.google.com/search?q=rust++logo&tbm=isch&chips=q:rust+logo,g_1:lang:lZcxoPLTSrU%3D&hl=en-US&sa=X&ved=2ahUKEwjikYqj5-jqAhXBluYKHeVxBh8Q4lYoBHoECAEQGw&biw=1263&bih=586#imgrc=F3B6JU1w4fPA1M"></code>
 <code><img height="20" src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png"></code>
 <code><img height="20" src="https://avatars1.githubusercontent.com/u/2810941?s=280&v=4"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
