@@ -49,6 +49,8 @@ ________________________________________________________________________________
 [![Facebook Badge](https://img.shields.io/badge/-Vedant%20Shrivastava-blue?style=social&logo=Facebook&link=https://www.facebook.com/vedant.shrivastava.37)](https://www.facebook.com/vedant.shrivastava.37)
 
 ![Vedant Shrivastava's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vedant-S&show_icons=true&hide=["issues"]&theme=radical)
+
+[![HitCount](http://hits.dwyl.com/Vedant-S/Vedant-S.svg)](http://hits.dwyl.com/Vedant-S/Vedant-S)
 ___________________________________________________________________________________________________________________________________
 - 💬 Ask me about anything, I am happy to help anytime!
 - Active participant in Hackathons & CTFs
