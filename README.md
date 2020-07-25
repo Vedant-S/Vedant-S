@@ -44,6 +44,11 @@ ________________________________________________________________________________
 [![Twitter Badge](http://img.shields.io/badge/-@iamsvedant-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/iamsvedant)](https://twitter.com/iamsvedant)
 [![Linkedin Badge](https://img.shields.io/badge/-Vedant%20Shrivastava-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/iamsvedant/)](https://www.linkedin.com/in/iamsvedant/)
 [![Instagram Badge](https://img.shields.io/badge/vedant.shr1vastava-blue?style=social&logo=Instagram&link=https://www.instagram.com/vedant.shr1vastava/)](https://www.instagram.com/vedant.shr1vastava/)
+[![Medium Badge](https://img.shields.io/badge/@iamsvedant-blue?style=social&logo=Medium&link=https://medium.com/@iamsvedant)](https://medium.com/@iamsvedant)
+[![Youtube Badge](https://img.shields.io/badge/-Vedant%20Shrivastava-blue?style=social&logo=Youtube&link=https://www.youtube.com/channel/UCRVUoA3dXXisZKVk-klKOhA?view_as=subscriber)](https://www.youtube.com/channel/UCRVUoA3dXXisZKVk-klKOhA?view_as=subscriber)
+[![Facebook Badge](https://img.shields.io/badge/-Vedant%20Shrivastava-blue?style=social&logo=Facebook&link=https://www.facebook.com/vedant.shrivastava.37)](https://www.facebook.com/vedant.shrivastava.37)
+
+![Vedant Shrivastava's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vedant-S&show_icons=true&hide=["issues"]&theme=radical)
 ___________________________________________________________________________________________________________________________________
 - 💬 Ask me about anything, I am happy to help anytime!
 - Active participant in Hackathons & CTFs
