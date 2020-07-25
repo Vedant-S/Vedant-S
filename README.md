@@ -53,7 +53,7 @@ ________________________________________________________________________________
 [![HitCount](http://hits.dwyl.com/Vedant-S/Vedant-S.svg)](http://hits.dwyl.com/Vedant-S/Vedant-S)
 
 <a href="https://github.com/Vedant-S">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-S&hide=htmlk&show_icons=true&theme=radical" alt="Vedant's GitHub Stats"/></a>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-S&hide=html&show_icons=true&theme=radical" alt="Vedant's GitHub Stats"/></a>
 ___________________________________________________________________________________________________________________________________
 - 💬 Ask me about anything, I am happy to help anytime!
 - Active participant in Hackathons & CTFs
