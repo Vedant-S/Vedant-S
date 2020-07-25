@@ -37,7 +37,6 @@ I am a self driven and versatile individual with a strong interest in Finance an
 
 ___________________________________________________________________________________________________________________________________
 #### `Here's a little insight into what motivates me:`
-</br>
 Whether we realize it or not, technology has impacted the way we live our lives. The knowledge and skills learned through the study of Computer Science has found applications in almost every job sector. Being a fan of interdisciplinary work, I want to apply the skills I learn in the classroom to create solutions and breakthroughs in fields like Healthcare, Consumer Goods, Education, Litigation, Finance, Transportation etc. My past research and internship experiences reflect this passion as I continue to explore the endless opportunities Computer Science has to offer.
 ____________________________________________________________________________________________________________________________________
 
