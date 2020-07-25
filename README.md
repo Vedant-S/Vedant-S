@@ -1,14 +1,7 @@
 ### Hello Everyone!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">
 ___________________________________________________________________________________________________________________________________
 This is `Vedant Shrivastava`. I am currently pursuing B.Tech at School of Computer Engineering, KIIT(Deemed to be University). I am looking to pursue a challenging career and be part of a progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organisation. 
-___________________________________________________________________________________________________________________________________
-`Here's a little insight into what motivates me:`
-</br>
-</br>
-Whether we realize it or not, technology has impacted the way we live our lives. The knowledge and skills learned through the study of Computer Science has found applications in almost every job sector. Being a fan of interdisciplinary work, I want to apply the skills I learn in the classroom to create solutions and breakthroughs in fields like Healthcare, Consumer Goods, Education, Litigation, Finance, Transportation etc. My past research and internship experiences reflect this passion as I continue to explore the endless opportunities Computer Science has to offer.
-___________________________________________________________________________________________________________________________________
-I am a self driven and versatile individual with a strong interest in Finance and passion for strategy development, public speaking, leadership activities and of course writing. I am a sport enthusiast as well and a National Table Tennis Player. I desire to make a positive impact on the people around me and hope to achieve this through personal projects, internships, hackathons and other experiences.
-___________________________________________________________________________________________________________________________________
+_________________________________________________________________________
 I am an IT Intern at Deloitte, DevOps Intern at LinuxWorld Informatics, Scholarship receiver of Nutanix Hybrid Cloud Scholarship Program, Docker Expert at IIEC, Rust Lang Developer at Mozilla Club Bbsr, Member at Clymbe, Data Science Trainee at WorldQuant University and a Writer at Nerd For Tech.
 ___________________________________________________________________________________________________________________________________
  I code for `Fun` in any language including:  
@@ -39,7 +32,15 @@ ________________________________________________________________________________
 <code><img height="20" src="https://www.veritis.com/wp-content/uploads/2019/08/Prometheus.png"></code>
 <code><img height="20" src="https://repository-images.githubusercontent.com/238927599/670df700-49b8-11ea-8e07-4d0c886ccc9a"></code>
 <code><img height="20" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png"></code>
+___________________________________________________________________________________________________________________________________
 
+`I am a self driven and versatile individual with a strong interest in Finance and passion for strategy development, public speaking, leadership activities and of course writing. I am a sport enthusiast as well and a National Table Tennis Player. I desire to make a positive impact on the people around me and hope to achieve this through personal projects, internships, hackathons and other experiences.`
+
+___________________________________________________________________________________________________________________________________
+#### `Here's a little insight into what motivates me:`
+</br>
+Whether we realize it or not, technology has impacted the way we live our lives. The knowledge and skills learned through the study of Computer Science has found applications in almost every job sector. Being a fan of interdisciplinary work, I want to apply the skills I learn in the classroom to create solutions and breakthroughs in fields like Healthcare, Consumer Goods, Education, Litigation, Finance, Transportation etc. My past research and internship experiences reflect this passion as I continue to explore the endless opportunities Computer Science has to offer.
+____________________________________________________________________________________________________________________________________
 
 #### **Connect with me** on `Twitter` for exciting updates, `Linkedin` for opportunities and `Instagram` for fun:
 
@@ -47,8 +48,7 @@ ________________________________________________________________________________
 [![Twitter Badge](http://img.shields.io/badge/-@iamsvedant-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/iamsvedant)](https://twitter.com/iamsvedant)
 [![Linkedin Badge](https://img.shields.io/badge/-Vedant%20Shrivastava-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/iamsvedant/)](https://www.linkedin.com/in/iamsvedant/)
 [![Instagram Badge](https://img.shields.io/badge/vedant.shr1vastava-blue?style=social&logo=Instagram&link=https://www.instagram.com/vedant.shr1vastava/)](https://www.instagram.com/vedant.shr1vastava/)
-
-
+___________________________________________________________________________________________________________________________________
 - 💬 Ask me about anything, I am happy to help anytime!
 - Active participant in Hackathons & CTFs
 - Open Source enthusiast
