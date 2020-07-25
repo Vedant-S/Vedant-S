@@ -39,7 +39,7 @@ Whether we realize it or not, technology has impacted the way we live our lives.
 ____________________________________________________________________________________________________________________________________
 
 #### **Connect with me** on `Twitter` for exciting updates, `Linkedin` for opportunities and `Instagram` for fun:
-
+___________________________________________________________________________________________________________________________________
 [![Github Badge](https://img.shields.io/badge/Follow-blue?style=social&logo=Github&link=https://github.com/Vedant-S)](https://github.com/Vedant-S)
 [![Twitter Badge](http://img.shields.io/badge/-@iamsvedant-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/iamsvedant)](https://twitter.com/iamsvedant)
 [![Linkedin Badge](https://img.shields.io/badge/-Vedant%20Shrivastava-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/iamsvedant/)](https://www.linkedin.com/in/iamsvedant/)
