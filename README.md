@@ -1,6 +1,6 @@
 ### Hello Everyone!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">
 ___________________________________________________________________________________________________________________________________
-This is `Vedant Shrivastava`. I am currently pursuing B.Tech at School of Computer Engineering, KIIT(Deemed to be University). I am looking to pursue a challenging career and be part of a progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organisation. 
+This is **Vedant Shrivastava**. I am currently pursuing B.Tech at School of Computer Engineering, KIIT(Deemed to be University). I am looking to pursue a challenging career and be part of a progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organisation. 
 _________________________________________________________________________
 I am an IT Intern at Deloitte, DevOps Intern at LinuxWorld Informatics, Scholarship receiver of Nutanix Hybrid Cloud Scholarship Program, Docker Expert at IIEC, Rust Lang Developer at Mozilla Club Bbsr, Member at Clymbe, Data Science Trainee at WorldQuant University and a Writer at Nerd For Tech.
 ___________________________________________________________________________________________________________________________________
@@ -34,7 +34,7 @@ ________________________________________________________________________________
 <code><img height="20" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png"></code>
 ___________________________________________________________________________________________________________________________________
 
-`I am a self driven and versatile individual with a strong interest in Finance and passion for strategy development, public speaking, leadership activities and of course writing. I am a sport enthusiast as well and a National Table Tennis Player. I desire to make a positive impact on the people around me and hope to achieve this through personal projects, internships, hackathons and other experiences.`
+I am a self driven and versatile individual with a strong interest in Finance and passion for strategy development, public speaking, leadership activities and of course writing. I am a sport enthusiast as well and a National Table Tennis Player. I desire to make a positive impact on the people around me and hope to achieve this through personal projects, internships, hackathons and other experiences.
 
 ___________________________________________________________________________________________________________________________________
 #### `Here's a little insight into what motivates me:`
