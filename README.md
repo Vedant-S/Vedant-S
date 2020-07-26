@@ -30,6 +30,7 @@ ________________________________________________________________________________
 <code><img height="20" src="https://www.veritis.com/wp-content/uploads/2019/08/Prometheus.png"></code>
 <code><img height="20" src="https://repository-images.githubusercontent.com/238927599/670df700-49b8-11ea-8e07-4d0c886ccc9a"></code>
 <code><img height="20" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png"></code>
+<code><img height="20" src="https://avatars1.githubusercontent.com/u/35045612?s=400&v=4"></code>
 ___________________________________________________________________________________________________________________________________
 
 I am an IT Intern at Deloitte, DevOps Intern at LinuxWorld Informatics, Scholarship receiver of Nutanix Hybrid Cloud Scholarship Program, Docker Expert at IIEC, Rust Lang Developer at Mozilla Club Bbsr, Member at Clymbe, Data Science Trainee at WorldQuant University and a Writer at Nerd For Tech.
