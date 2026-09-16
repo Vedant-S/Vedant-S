@@ -39,15 +39,12 @@ ________________________________________________________________________________
 Whether we realize it or not, technology has impacted the way we live our lives. The knowledge and skills learned through the study of Computer Science has found applications in almost every job sector. Being a fan of interdisciplinary work, I want to apply the skills I learn in the classroom to create solutions and breakthroughs in fields like Healthcare, Consumer Goods, Education, Litigation, Finance, Transportation etc. My past research and internship experiences reflect this passion as I continue to explore the endless opportunities Computer Science has to offer.
 ____________________________________________________________________________________________________________________________________
 
-#### **Connect with me** on `Twitter` for exciting updates, `Linkedin` for opportunities and `Instagram` for fun:
+#### **Connect with me** on `Twitter` for exciting updates and `Linkedin` for opportunities.
 ___________________________________________________________________________________________________________________________________
 [![Github Badge](https://img.shields.io/badge/Follow-blue?style=social&logo=Github&link=https://github.com/Vedant-S)](https://github.com/Vedant-S)
 [![Twitter Badge](http://img.shields.io/badge/-@iamsvedant-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/iamsvedant)](https://twitter.com/iamsvedant)
-[![Linkedin Badge](https://img.shields.io/badge/-Vedant%20Shrivastava-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/iamsvedant/)](https://www.linkedin.com/in/iamsvedant/)
-[![Instagram Badge](https://img.shields.io/badge/vedant.shr1vastava-blue?style=social&logo=Instagram&link=https://www.instagram.com/vedant.shr1vastava/)](https://www.instagram.com/vedant.shr1vastava/)
 [![Medium Badge](https://img.shields.io/badge/@iamsvedant-blue?style=social&logo=Medium&link=https://medium.com/@iamsvedant)](https://medium.com/@iamsvedant)
 [![Youtube Badge](https://img.shields.io/badge/-Vedant%20Shrivastava-blue?style=social&logo=Youtube&link=https://www.youtube.com/channel/UCRVUoA3dXXisZKVk-klKOhA?view_as=subscriber)](https://www.youtube.com/channel/UCRVUoA3dXXisZKVk-klKOhA?view_as=subscriber)
-[![Facebook Badge](https://img.shields.io/badge/-Vedant%20Shrivastava-blue?style=social&logo=Facebook&link=https://www.facebook.com/vedant.shrivastava.37)](https://www.facebook.com/vedant.shrivastava.37)
 
 ![Vedant Shrivastava's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vedant-S&show_icons=true&hide=["issues"]&theme=radical)
 ___________________________________________________________________________________________________________________________________
