@@ -1,5 +1,5 @@
 ### Hello Everyone!
-This is **Vedant Shrivastava**😊. I am currently pursuing B.Tech at School of Computer Engineering, KIIT(Deemed to be University). I am looking to pursue a challenging career and be part of a progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organisation. 
+This is **Vedant**😊. I am currently pursuing B.Tech at School of Computer Engineering, KIIT(Deemed to be University). I am looking to pursue a challenging career and be part of a progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organisation. 
 ___________________________________________________________________________________________________________________________________
 **I am a self driven and versatile individual with a strong interest in Finance and passion for strategy development, public speaking, leadership activities and writing✍🏼. I am a sport enthusiast as well and a National Table Tennis Player🏓. I desire to make a positive impact on the people around me and hope to achieve this through personal projects, internships, hackathons and other experiences.**
 ___________________________________________________________________________________________________________________________________
